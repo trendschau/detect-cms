@@ -1,8 +1,8 @@
 {
-    "name":"detect-cms",
+    "name":"trendschau/detect-cms",
     "type":"library",
     "autoload":{
-        "psr-4":{
+        "psr-0":{
             "DetectCMS":"src/"
         }
     }
